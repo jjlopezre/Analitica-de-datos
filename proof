@@ -1,7 +1,0 @@
-echo "# Analitica-de-datos" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/jjlopezre/Analitica-de-datos.git
-git push -u origin main
